@@ -28,4 +28,3 @@ What can you discover about New York City real estate by looking at a year's wor
 
 [Master ESA](https://www.univ-orleans.fr/deg/masters/ESA/index.htm)
 
-[Github](https://github.com/loicpalma/Penalized-Regressions-Project/)
